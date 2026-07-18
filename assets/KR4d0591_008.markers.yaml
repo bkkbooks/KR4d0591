@@ -386,6 +386,7 @@ markers:
   - {type: substitution, offset: 825, original: 来, replacement: 來, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16500}}
   - {type: substitution, offset: 830, original: 髪, replacement: 髮, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20730}}
   - {type: punctuation, offset: 834, content: (, id: KR4d0591_krp_008-bkkpn1}
+  - {type: voice, offset: 834, length: 84, name: note, id: n1}
   - {type: punctuation, offset: 835, content: /, id: KR4d0591_krp_008-bkkpn2}
   - {type: substitution, offset: 835, original: 註, replacement: 注, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16785}}
   - {type: punctuation, offset: 836, content: ), id: KR4d0591_krp_008-bkkpn3}
@@ -1107,4 +1108,4 @@ markers:
 
       ', id: KR4d0591_krp_008-bkkkrnewl227}
   back: []
-hash: sha256:1246d5b44e31c6d91e775d272b8e6b1ce6406f7bd2c97b7cc4b90090aee5af98
+hash: sha256:2419a58df1c998b39fa38606afd76f7b1510e3d399cb126d6a8e07c5902d19e7
